@@ -1,12 +1,12 @@
 # Day 1: Introduction to Terraform and Infrastructure as Code (IaC)
 
 ## Participant Details
-- **Name:** [Meriem Terki]
+- **Name:** [Ngwa Dieudonne Lobuin aka Techlegacy]
 - **Task Completed:** Introduction to Terraform and IaC
-- **Date and Time:** [18/08/2024 2:26 PM]
+- **Date and Time:** [18/08/2024 3:00 PM]
 
 ## Additional Notes
-- Reading chapter 1 of the book was intresting but time consuming so I have to figure out a way to do it more effectively.
+- i was very impressed goign through the chapter and i will find time to disect it even more cos i really enjoyed it.
 
 ## Participant Details
 ### No: 1
