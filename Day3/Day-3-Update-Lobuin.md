@@ -27,7 +27,7 @@ resource "aws_instance" "terraform_instance" {
   EOF
   user_data_replace_on_change = true
   tags = {
-    Name = "demo_web_server"
+    Name = "deyo_web_server"
   }
 }
 
